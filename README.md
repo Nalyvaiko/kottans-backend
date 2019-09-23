@@ -1,9 +1,9 @@
 # kottans-backend
 
 ### Task List
-- [ ] Git Basics
-- [ ] Unix Shell
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [X] Git Basics
+- [X] Unix Shell
+- [X] VCS (hello gitty), GitHub and Collaboration
 - [ ] Language-specific Topics: Part I
 - [ ] Memory Management
 - [ ] TCP, UDP, Network
@@ -26,3 +26,6 @@
 ![quiz_4](task_unix_shell/quiz_4.png)
 > pipes & filters very useful
 > IO redirection
+
+## Git Collaboration
+![git_collaboration](task_git_collaboration/git_collaboration.png)
