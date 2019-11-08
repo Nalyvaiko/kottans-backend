@@ -33,3 +33,4 @@
 
 ## NodeJS Basics 1
 ![js_basics_1](js_basics_1/learnyounode.png)
+![js_basics_1](js_basics_1/functional-javascript.png)
