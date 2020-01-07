@@ -34,3 +34,6 @@
 ## NodeJS Basics 1
 ![js_basics_1](js_basics_1/learnyounode.png)
 ![js_basics_1](js_basics_1/functional-javascript.png)
+![js_basics_1](js_basics_1/stream-adventure.png)
+> many different libs
+> not enough docs & instructions
